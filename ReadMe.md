@@ -1,3 +1,3 @@
-#Learning git
+# Learning git
 
 Using some random curriculum
